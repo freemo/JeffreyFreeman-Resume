@@ -1,5 +1,6 @@
 .DS_Store
-Jeffreyfreeman-lead-full.aux
-Jeffreyfreeman-lead-full.log
-Jeffreyfreeman-lead-full.out
-Jeffreyfreeman-lead-full.pdf
+*.aux
+*.log
+*.out
+*.pdf
+TSWLatexianTemp_*
